@@ -1,4 +1,4 @@
-
+/** 
 $('.slider-image').slick({
     dots: true,
     infinite: true,
@@ -11,7 +11,7 @@ $('.slider-image').slick({
     prevArrow: '<img id="prevv" src="./src/images/arrowr.png"></img>',
 
   });
-
+**/
   $('.testimonial_owlCarousel').owlCarousel({
     loop:true,
     margin:10,
